@@ -1,0 +1,8 @@
+com.genesys.assignment.csv_operations
+com.genesys.assignment.db.parser.csv.api
+com.genesys.assignment.db.parser.csv.impl
+com.genesys.assignment.generator.csv.api
+com.genesys.assignment.generator.csv.impl
+com.genesys.assignment.generator.data.api
+com.genesys.assignment.generator.data.impl
+com.genesys.assignment.generator.service
